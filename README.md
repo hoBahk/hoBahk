@@ -3,7 +3,6 @@
 
 ## Information
 
-- I'm a iOS engineer who runs steadily🏃
 - <a href="https://velog.io/@qudgh849" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 - <a href="https://velog.io/@qudgh849" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
