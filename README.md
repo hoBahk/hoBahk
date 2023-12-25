@@ -5,10 +5,10 @@
 
 - <a href="https://velog.io/@qudgh849" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-
+<!--
 ## Activity
-## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoBahk&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoBahk&show_icons=true&theme=radical)
+-->
 
 <!--
 **hoBahk/hoBahk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
